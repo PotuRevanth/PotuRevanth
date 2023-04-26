@@ -5,7 +5,7 @@
 ![giphy](https://user-images.githubusercontent.com/98310054/232490487-71dda4a3-ef9b-42c0-be29-d08588138df1.gif)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=poturevanth&label=Profile%20views&color=0e75b6&style=flat" alt="poturevanth" /> </p>
+
 
 - 🔭 I’m currently working on **a CNN project**
 
